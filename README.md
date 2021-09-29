@@ -1,2 +1,3 @@
-# desafio-git-hub-fp-DIO
-Desafio de projeto git/github
+# Repositório de projeto do Desafio GIT/Github 💻
+
+Repositório criado para desafio de projeto
